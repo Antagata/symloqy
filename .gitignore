@@ -1,0 +1,15 @@
+.env
+*.db
+*.db-*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+credentials.json
+assets/
+.claude/
+mcp.json
+supabase/.temp/
+.DS_Store
+Thumbs.db
